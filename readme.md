@@ -4,7 +4,6 @@ Here you will find slides, labs, sample code, and problem set solutions for IST6
 
 License for use: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
-
 ## All the resources for IST659 / Applied Database Management
 
 [Applied Database Management](https://mafudge.github.io/applied-database-management/)
