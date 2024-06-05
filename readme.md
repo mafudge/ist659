@@ -7,7 +7,7 @@ License for use: [https://creativecommons.org/licenses/by/4.0/](https://creative
 
 ## All the resources for IST659 / Applied Database Management
 
-- Content: [https://github.com/mafudge/ist659]([https://github.com/mafudge/ist659])
+- Content: [https://github.com/mafudge/ist659](https://github.com/mafudge/ist659)
 - Lab Environment: [https://github.com/mafudge/learn-databases](https://github.com/mafudge/learn-databases)
 - Textbook: [https://www.greatriverlearning.com/product-details/1947](https://www.greatriverlearning.com/product-details/1947)
 - Videos From Textbook: [https://www.youtube.com/watch?v=96uKeHSQMkg&list=PLyRiRUsTyUXghCQTvsCeMjOCVjIIPsopR](https://www.youtube.com/watch?v=96uKeHSQMkg&list=PLyRiRUsTyUXghCQTvsCeMjOCVjIIPsopR)
